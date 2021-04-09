@@ -1,0 +1,2 @@
+# Cryptoprotein
+This project investigates the occurrence of novel non-canonical proteins (which we termed as "cryptoproteins") in lung cancer. Cryptoproteins were quantified in the Ig-bound plasma samples of newly diagnosed and pre-diagnosed cancer patients and they were compared with cancer-free controls. Cryptoproteins represent an essentially unexplored source of neoantigens associated with autoantibody responses in lung cancer.
